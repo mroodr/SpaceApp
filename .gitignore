@@ -1,0 +1,12 @@
+# Unity basics
+[Ll]ibrary/
+[Tt]emp/    
+[Bb]uild/
+[Bb]uilds/
+obj/
+*.csproj
+*.unityproj
+*.sln   
+*.user
+*.pidb
+*.booproj
